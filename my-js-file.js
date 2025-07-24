@@ -12,4 +12,4 @@ function getmangaimage(){
 
 }
 
-document.addEventListener('DOMContentLoaded', getmangaimage);
+//document.addEventListener('DOMContentLoaded', getmangaimage);

@@ -1,3 +1,20 @@
 p {
   color: green;
 }
+
+header {
+  color: blue;
+}
+
+.manga-cover-image {
+  width: 200px;   /* Resize width */
+  height: auto;   /* Maintain aspect ratio */
+  /* You can add other styles too */
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.container {
+  margin-left: 200px;
+  margin-right: 200px;
+}
